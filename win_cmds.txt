@@ -1,0 +1,43 @@
+1		compmgmtlauncher		=>	Computer Management
+
+2		fsquirt					=>	bluetooth file transfer
+
+3		timedate.cpl			=>	Date and time
+
+4		shrpubw					=>	Create a shared folde wizard
+
+5		netplwiz				=>	User accounts
+
+6		inetcpl.cpl				=>	Internet properties
+
+7		gpedit.msc				=>	Local group policy editor
+
+8		dialer					=>	Phone dialer
+
+9		mstsc					=>	Remote desktop connection
+
+10		rstrui					=>	Restore system files and settings
+
+11		taskmgr					=>	Task manager
+
+12		wfs						=>	Windows fax and scan
+
+13		explorer				=>	Windows explorer
+
+14		firewall.cpl			=>	Windows firewall
+
+15		wf.msc					=>	Windows firewall with advance security
+
+16		mblctr					=>	Windows mobility center
+
+17		slmgr /xpr				=>	Check windows activation (use in cmd)
+
+18		calc					=>	Calculator
+
+19		charmap					=>	Character map
+
+20		cttune					=>	Clear type tune
+
+21		control					=>	Control panel
+
+22		

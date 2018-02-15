@@ -1,0 +1,4 @@
+Change window color in regedit
+------------------------------
+
+	regedit	->	HEKY_CURRENT_USER	->	Control Panel	->	Colors	->	Window

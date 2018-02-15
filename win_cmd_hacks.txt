@@ -1,0 +1,62 @@
+Disable safe boot from cmd
+---------------------------
+	
+	If you boot the win boot cd and get the cmd by pressing (SHIFT + F10) then type the following
+	
+	{
+		bcdedit /deletevalue {default} safeboot
+	}
+	
+putting computer to safe mode
+-----------------------------
+	
+	1. Press the restart button with pressing SHIFT
+	
+	2. 
+		Boot the win boot cd then get the cmd by pressing SHIFT + F10 then type following
+		{ 
+			bcdedit /set {default} safeboot minimal
+		}
+
+Shutdown computer
+-----------------
+	
+	{ shutdown -s }
+	
+Restart computer
+------------------
+
+	{ shutdown -r }
+	
+Log off computer
+----------------
+	
+	{ shutdown -l }
+	
+Hibernate local computer
+------------------------
+
+	{ Rundll32.exe Powerprof.dll, SetSuspendState }
+	
+Enable hibernate
+----------------
+
+	{ powercfg -h on }
+	
+Disable hibernate
+------------------
+
+	{ powercfg -h off } 
+	
+Startup folder
+---------------
+
+	{ shell:startup }
+
+clear clipboard
+---------------
+echo off | clip
+
+shortcut file - cmd /c “echo off | clip”
+	
+
