@@ -58,5 +58,22 @@ clear clipboard
 echo off | clip
 
 shortcut file - cmd /c “echo off | clip”
+
+Show lan profile
+---------------
+
+netsh wlan show profiles
+
+
+Details of lan profile
+---------------------
+
+netsh wlan show profile name="profile_name"
+
+
+Delete lan profile
+--------------------
+
+netsh wlan delete profile name="profile_name"
 	
 
