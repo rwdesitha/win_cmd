@@ -1,0 +1,6 @@
+
+clear clipboard
+---------------
+echo off | clip
+
+shortcut file - cmd /c “echo off | clip”

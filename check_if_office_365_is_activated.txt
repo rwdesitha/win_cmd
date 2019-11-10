@@ -1,0 +1,4 @@
+goto -> C:\Program Files\Microsoft Office\Office16
+get the cmd on the path -> cscript ospp.vbs /dstatus
+
+LICENSE STATUS:  ---LICENSED---

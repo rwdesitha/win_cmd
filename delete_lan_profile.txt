@@ -1,0 +1,4 @@
+Delete lan profile
+--------------------
+
+netsh wlan delete profile name="profile_name"

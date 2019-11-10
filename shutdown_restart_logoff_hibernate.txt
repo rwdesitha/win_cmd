@@ -1,0 +1,29 @@
+Shutdown computer
+-----------------
+	
+	{ shutdown -s }
+	
+Restart computer
+------------------
+
+	{ shutdown -r }
+	
+Log off computer
+----------------
+	
+	{ shutdown -l }
+	
+Hibernate local computer
+------------------------
+
+	{ Rundll32.exe Powerprof.dll, SetSuspendState }
+	
+Enable hibernate
+----------------
+
+	{ powercfg -h on }
+	
+Disable hibernate
+------------------
+
+	{ powercfg -h off } 

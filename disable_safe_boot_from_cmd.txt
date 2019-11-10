@@ -1,0 +1,6 @@
+Disable safe boot from cmd
+
+If you boot the win boot cd and get the cmd by pressing (SHIFT + F10) then type the following
+{
+	bcdedit /deletevalue {default} safeboot
+}

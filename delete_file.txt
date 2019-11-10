@@ -1,0 +1,6 @@
+delete file
+-----------
+
+Type in del file.extension where "file" is the file's name and ".extension" is the file type extension.
+For example, to delete a text file entitled "hello", you would type del hello.txt into Command Prompt.
+If the file's name has a space in it (e.g., "hi there"), you will place the file's name in quotations (e.g., del "hi there").

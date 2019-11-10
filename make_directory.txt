@@ -1,0 +1,5 @@
+make a directory
+------------------------------------------
+mkdir name
+type nul > hello.txt
+Other common file extensions include ".docx" (Word document), ".png" (empty photo), ".xlsx" (Excel document), and ".rtf" (rich text document).

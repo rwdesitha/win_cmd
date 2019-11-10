@@ -1,0 +1,4 @@
+Show lan profile
+---------------
+
+netsh wlan show profiles

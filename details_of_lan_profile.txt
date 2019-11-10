@@ -1,0 +1,4 @@
+Details of lan profile
+---------------------
+
+netsh wlan show profile name="profile_name"

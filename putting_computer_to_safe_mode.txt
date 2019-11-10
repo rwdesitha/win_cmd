@@ -1,0 +1,10 @@
+putting computer to safe mode
+-----------------------------
+	
+	1. Press the restart button with pressing SHIFT
+	
+	2. 
+Boot the win boot cd then get the cmd by pressing SHIFT + F10 then type following
+{ 
+	bcdedit /set {default} safeboot minimal
+}

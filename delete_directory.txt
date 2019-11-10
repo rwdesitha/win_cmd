@@ -1,0 +1,6 @@
+
+delete a directory
+-------------------
+Type rmdir /s name (where "name" is the folder's name) into Command Prompt.
+For example, if you're trying to delete your "Homework" folder, you'd type in rmdir /s Homework here.
+If the folder's name has a space in it (e.g., "Homework assignments"), you'll place the folder name in quotations (e.g., rmdir /s "Homework assignments").
